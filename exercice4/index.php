@@ -3,5 +3,5 @@
     $age = 16;
     $type_float = 3.14;
     $type_bolean = true;
-    echo $name.'</br>'.$age.'</br>'.$type_float.'</br>'.$type_bolean;
+    var_dump($name, $age, $type_float, $type_bolean);
 ?>
